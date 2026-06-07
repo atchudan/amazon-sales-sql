@@ -127,6 +127,6 @@ order_items   → ItemID (PK), OrderID (FK), ProductID (FK), Quantity, UnitPrice
 
 ## 👤 Author
 
-**[Your Name]**  
-[LinkedIn Profile URL]  
-[GitHub Profile URL]
+Atchudan
+https://www.linkedin.com/in/atchudan-sreeram-609b46169/  
+https://github.com/atchudan
